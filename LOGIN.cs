@@ -49,6 +49,7 @@ namespace WinFormsApps
 
         private void btnaceptar_Click(object sender, EventArgs e)
         {
+           
             string usuariocorrecto = "juani";
             string contraseñacorrecta = "123456";
             if (esvalido())
