@@ -1,4 +1,4 @@
-\# 💼 CrudParaCalcularSalario
+\#  CrudParaCalcularSalario
 
 
 
@@ -6,7 +6,7 @@ Aplicación de escritorio en WinForms para gestionar empleados y calcular aument
 
 
 
-\## 🧰 Tecnologías utilizadas
+\## Tecnologías utilizadas
 
 
 
